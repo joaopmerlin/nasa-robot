@@ -21,5 +21,5 @@
   
   Example: 
   ```
-  curl -s --request POST http://localhost:8080/rest/mars/MMRMMRMM
+  curl -s --request POST https://nasa-robot.herokuapp.com/rest/mars/MMRMMRMM
   ```
